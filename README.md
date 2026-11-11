@@ -137,9 +137,12 @@ The work follows the course project's requirements for data acquisition, data-qu
 
 ## 👨‍🎓 Author
 
-**Muhammad Abubakar**  
+**Muhammad Abubakar**
+
 **Muhammad Idrees**
+
 **Eshal Danish**
+
 BS Artificial Intelligence  
 National University of Sciences and Technology (NUST), Pakistan  
 Course: DS-311 Data Mining  
